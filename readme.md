@@ -13,7 +13,7 @@ This script monitors [snek.fun](https://www.snek.fun/) and sends an email alert 
 - `selenium`
 - `yagmail`
 - Chrome installed
-- `you can lower your time for sleep in code if wanted`
+- `you can lower your sleep time in code if wanted`
 
 Install dependencies:
 ```bash
